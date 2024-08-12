@@ -1,0 +1,38 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET, .NET Core, ASP.NET, ASP.NET Core
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.log
+*.sql
+*.sqlite
+*.pdb
+*.cache
+*.config
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+.vs/*
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
